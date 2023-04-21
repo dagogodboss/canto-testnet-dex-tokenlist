@@ -1,0 +1,220 @@
+{
+    "name": "LeetSwap List",
+    "timestamp": "2023-04-01T03:55:00.000Z",
+    "logoURI": "https://leetswap.finance/favicon.ico",
+    "version": {
+        "major": 1,
+        "minor": 7,
+        "patch": 0
+    },
+    "tokens": [
+        {
+            "name": "Wrapped Canto",
+            "address": "0x826551890Dc65655a0Aceca109aB11AbDbD7a07B",
+            "symbol": "WCANTO",
+            "decimals": 18,
+            "chainId": 7700,
+            "logoURI": "https://raw.githubusercontent.com/Canto-Network/list/main/logos/token-logos/token/canto.png"
+        },
+        {
+            "name": "Wrapped ETH",
+            "address": "0x4F9A0e7FD2Bf6067db6994CF12E4495Df938E6e9",
+            "symbol": "WETH",
+            "decimals": 18,
+            "chainId": 1101,
+            "logoURI": "https://raw.githubusercontent.com/Canto-Network/list/main/logos/token-logos/token/ETH.svg"
+        },
+        {
+            "name": "Leet",
+            "address": "0x9aeff862435Cc243D12CEe915e7129629c6a8D5D",
+            "symbol": "LEET",
+            "decimals": 18,
+            "chainId": 7700,
+            "logoURI": "https://raw.githubusercontent.com/LeetSwap/tokenlist/master/logos/leet.png"
+        },
+        {
+            "name": "xLEET",
+            "address": "0x32c89133c2702cBde22261D09372C5Bb7815C6CA",
+            "symbol": "XLEET",
+            "decimals": 18,
+            "chainId": 7700,
+            "logoURI": "https://raw.githubusercontent.com/LeetSwap/tokenlist/master/logos/xleet.png"
+        },
+        {
+            "name": "LeetSwap",
+            "address": "0xEA0B7a3256829190eA5f587509dEE953d213461c",
+            "symbol": "LEET",
+            "decimals": 18,
+            "chainId": 1101,
+            "logoURI": "https://raw.githubusercontent.com/LeetSwap/tokenlist/master/logos/leet.png"
+        },
+        {
+            "name": "xLEET",
+            "address": "0x475089fd520af9FD1Fa2CD9933d5B38C07608500",
+            "symbol": "XLEET",
+            "decimals": 18,
+            "chainId": 1101,
+            "logoURI": "https://raw.githubusercontent.com/LeetSwap/tokenlist/master/logos/xleet.png"
+        },
+        {
+            "name": "Poly zkDOGE",
+            "address": "0x3dc1607D48Ec9f8ea1993eD96255883E68852C05",
+            "symbol": "pzkDOGE",
+            "decimals": 18,
+            "chainId": 1101,
+            "logoURI": "https://raw.githubusercontent.com/LeetSwap/tokenlist/master/logos/pzkdoge.jpg"
+        },
+        {
+            "name": "ETH",
+            "address": "0x5FD55A1B9FC24967C4dB09C513C3BA0DFa7FF687",
+            "symbol": "ETH",
+            "decimals": 18,
+            "chainId": 7700,
+            "logoURI": "https://raw.githubusercontent.com/Canto-Network/list/main/logos/token-logos/token/ETH.svg"
+        },
+        {
+            "name": "USDC",
+            "address": "0x80b5a32E4F032B2a058b4F29EC95EEfEEB87aDcd",
+            "symbol": "USDC",
+            "decimals": 6,
+            "chainId": 7700,
+            "logoURI": "https://raw.githubusercontent.com/Canto-Network/list/main/logos/token-logos/token/USDC.svg"
+        },
+        {
+            "name": "USDC",
+            "address": "0xA8CE8aee21bC2A48a5EF670afCc9274C7bbbC035",
+            "symbol": "USDC",
+            "decimals": 6,
+            "chainId": 1101,
+            "logoURI": "https://raw.githubusercontent.com/Canto-Network/list/main/logos/token-logos/token/USDC.svg"
+        },
+        {
+            "name": "USDT",
+            "address": "0xd567B3d7B8FE3C79a1AD8dA978812cfC4Fa05e75",
+            "symbol": "USDT",
+            "decimals": 6,
+            "chainId": 7700,
+            "logoURI": "https://raw.githubusercontent.com/Canto-Network/list/main/logos/token-logos/token/USDT.svg"
+        },
+        {
+            "name": "USDT",
+            "address": "0x1E4a5963aBFD975d8c9021ce480b42188849D41d",
+            "symbol": "USDT",
+            "decimals": 6,
+            "chainId": 1101,
+            "logoURI": "https://raw.githubusercontent.com/Canto-Network/list/main/logos/token-logos/token/USDT.svg"
+        },
+        {
+            "name": "Atom",
+            "address": "0xecEEEfCEE421D8062EF8d6b4D814efe4dc898265",
+            "symbol": "ATOM",
+            "decimals": 6,
+            "chainId": 7700,
+            "logoURI": "https://raw.githubusercontent.com/Canto-Network/list/main/logos/token-logos/token/ATOM.svg"
+        },
+        {
+            "name": "Note",
+            "address": "0x4e71A2E537B7f9D9413D3991D37958c0b5e1e503",
+            "symbol": "NOTE",
+            "decimals": 18,
+            "chainId": 7700,
+            "logoURI": "https://raw.githubusercontent.com/Canto-Network/list/main/logos/token-logos/token/note.svg"
+        },
+        {
+            "name": "CANTO INU",
+            "address": "0x7264610A66EcA758A8ce95CF11Ff5741E1fd0455",
+            "symbol": "cINU",
+            "decimals": 18,
+            "chainId": 7700,
+            "logoURI": "https://raw.githubusercontent.com/Canto-Network/list/main/logos/token-logos/token/CantoInu.png"
+        },
+        {
+            "name": "CANTOBONK",
+            "address": "0x38D11B40D2173009aDB245b869e90525950aE345",
+            "symbol": "CBONK",
+            "decimals": 9,
+            "chainId": 7700,
+            "logoURI": "https://raw.githubusercontent.com/LeetSwap/tokenlist/master/logos/cbonk.jpg"
+        },
+        {
+            "name": "Upsample",
+            "address": "0x069C4887f2eafCbE7D3572e13b449A02B31D260C",
+            "symbol": "UP",
+            "decimals": 18,
+            "chainId": 7700,
+            "logoURI": "https://raw.githubusercontent.com/LeetSwap/tokenlist/master/logos/upsample.png"
+        },
+        {
+            "name": "BankNote",
+            "address": "0x6f6BAe4110eCC33fE4E330b16b8df2A5E9807658",
+            "symbol": "BANK",
+            "decimals": 9,
+            "chainId": 7700,
+            "logoURI": "https://raw.githubusercontent.com/LeetSwap/tokenlist/master/logos/bank.png"
+        },
+        {
+            "name": "TATE COIN",
+            "address": "0xe350b49e52c9d865735BFD77c956f64585Be7583",
+            "symbol": "TOPG",
+            "decimals": 18,
+            "chainId": 7700,
+            "logoURI": "https://raw.githubusercontent.com/Canto-Network/list/main/logos/token-logos/token/TopG.png"
+        },
+        {
+            "name": "CANTO MOON",
+            "address": "0x0a79EB2C804e1e9f2A6a09768c03Ff9C1B2D8028",
+            "symbol": "CMOON",
+            "decimals": 18,
+            "chainId": 7700,
+            "logoURI": "https://raw.githubusercontent.com/Canto-Network/list/main/logos/token-logos/token/CantoMoon.png"
+        },
+        {
+            "name": "Wrapped Canto",
+            "address": "0x04a72466De69109889Db059Cb1A4460Ca0648d9D",
+            "symbol": "WCANTO",
+            "decimals": 18,
+            "chainId": 7701,
+            "logoURI": "https://raw.githubusercontent.com/Canto-Network/list/main/logos/token-logos/token/canto.png"
+        },
+        {
+            "name": "ETH",
+            "address": "0xCa03230E7FB13456326a234443aAd111AC96410A",
+            "symbol": "ETH",
+            "decimals": 18,
+            "chainId": 7701,
+            "logoURI": "https://raw.githubusercontent.com/Canto-Network/list/main/logos/token-logos/token/ETH.svg"
+        },
+        {
+            "name": "USDC",
+            "address": "0xc51534568489f47949A828C8e3BF68463bdF3566",
+            "symbol": "USDC",
+            "decimals": 6,
+            "chainId": 7701,
+            "logoURI": "https://raw.githubusercontent.com/Canto-Network/list/main/logos/token-logos/token/USDC.svg"
+        },
+        {
+            "name": "USDT",
+            "address": "0x4fC30060226c45D8948718C95a78dFB237e88b40",
+            "symbol": "USDT",
+            "decimals": 6,
+            "chainId": 7701,
+            "logoURI": "https://raw.githubusercontent.com/Canto-Network/list/main/logos/token-logos/token/USDT.svg"
+        },
+        {
+            "name": "Atom",
+            "address": "0x40E41DC5845619E7Ba73957449b31DFbfB9678b2",
+            "symbol": "ATOM",
+            "decimals": 6,
+            "chainId": 7701,
+            "logoURI": "https://raw.githubusercontent.com/Canto-Network/list/main/logos/token-logos/token/ATOM.svg"
+        },
+        {
+            "name": "Note",
+            "address": "0x03F734Bd9847575fDbE9bEaDDf9C166F880B5E5f",
+            "symbol": "NOTE",
+            "decimals": 18,
+            "chainId": 7701,
+            "logoURI": "https://raw.githubusercontent.com/Canto-Network/list/main/logos/token-logos/token/note.svg"
+        }
+    ]
+}
