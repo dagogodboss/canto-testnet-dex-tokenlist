@@ -209,12 +209,12 @@
             "logoURI": "https://raw.githubusercontent.com/Canto-Network/list/main/logos/token-logos/token/ATOM.svg"
         },
         {
-            "name": "Ubeswap (UBE)",
-            "address": "0xEaa6f1e99e3B6a07E3665858BD4A060F2c845D29",
+            "name": "Ubeswap",
+            "address": "0xeaa6f1e99e3b6a07e3665858bd4a060f2c845d29",
             "symbol": "UBE",
             "decimals": 18,
             "chainId": 7701,
-            "logoURI": "https://icoholder.com/media/cache/ico_logo_view_page/files/img/c27dc2166a317672d1eb06915b16a78b.png"
+            "logoURI": "https://raw.githubusercontent.com/Ubeswap/ubeswap-interface/main/src/assets/svg/icon-ube.svg"
         }
     ]
 }
